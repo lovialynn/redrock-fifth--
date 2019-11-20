@@ -1,0 +1,8 @@
+.body{
+    background-color: rgb(139, 62, 32);
+}
+.but{
+    border: none;
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+}
